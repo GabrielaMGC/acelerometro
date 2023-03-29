@@ -1,3 +1,3 @@
 # acelerometro
 
-<img src="./esquema.png'/>
+<img src="./esquema.png"/>
